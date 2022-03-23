@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: ...
 -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kaviyagopi&label=Profile%20views&color=0e75b6&style=flat" alt="kaviyagopi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rahdnus&label=Profile%20views&color=0e75b6&style=flat" alt="rahdnus" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaviyagopi" alt="kaviyagopi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahdnus" alt="rahdnus" /></a> </p>
 
 ### connect with me
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
