@@ -5,14 +5,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on Unity and OpenGL projects
+- 🌱 I’m currently learning Web Development
+- 👯 I’m looking to collaborate on Game Projects and just cool ideas in general!
+- 🤔 I’m looking for help with everything really(sned help)
+- 💬 Ask me about Game Dev!
+- 📫 How to reach me: rahdnus119@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: No
 -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rahdnus&label=Profile%20views&color=0e75b6&style=flat" alt="rahdnus" /> </p>
 
@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 ### Languages and Tools
 <p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-</a> 
+<a href="https://www.cppprogramming.com/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
+</a>  
 <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40">
  </a> 
