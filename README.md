@@ -3,7 +3,7 @@
 <!--
 **rahdnus/rahdnus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on Unity and OpenGL projects
 - 🌱 I’m currently learning Web Development
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: rahdnus119@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: No
--->
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rahdnus&label=Profile%20views&color=0e75b6&style=flat" alt="rahdnus" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahdnus" alt="rahdnus" /></a> </p>
@@ -39,3 +39,10 @@ Here are some ideas to get you started:
 <a href="https://unity.com/" target="_blank">
     <img src="https://files.rubixdev.de/logos/unity.svg" alt="Unity" width="40" height="40"/>
 </a>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahdnus&show_icons=true&locale=en&layout=compact" alt="rahdnus" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rahdnus&show_icons=true&locale=en" alt="rahdnus" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahdnus&" alt="rahdnus" /></p>
